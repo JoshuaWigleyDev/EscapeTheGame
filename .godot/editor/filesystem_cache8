@@ -1,0 +1,22 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1723988981
+icon.svg::CompressedTexture2D::295427008072298606::1723985749::1723985756::1::::<><>::
+::res://Assests/::1723992421
+Attack.png::CompressedTexture2D::4337061932355579113::1723985619::1723985756::1::::<><>::
+Dead.png::CompressedTexture2D::6839682551225278953::1723985619::1723985756::1::::<><>::
+furn1.png::CompressedTexture2D::449818240734938199::1723984609::1723985771::1::::<><>::
+Hurt.png::CompressedTexture2D::3270007230900402800::1723985619::1723985756::1::::<><>::
+Idle.png::CompressedTexture2D::6477924606462047886::1723985619::1723985756::1::::<><>::
+Run.png::CompressedTexture2D::1789240578583875533::1723985619::1723985756::1::::<><>::
+top down assets .png::CompressedTexture2D::8993604607491984552::1723984459::1723985756::1::::<><>::
+top down spooky room 1.png::CompressedTexture2D::2513356059105415616::1723984451::1723985756::1::::<><>::
+top down spooky room 2.png::CompressedTexture2D::8998097149574237762::1723984448::1723985756::1::::<><>::
+top down spooky room a1.png::CompressedTexture2D::6597327039218911292::1723984457::1723985756::1::::<><>::
+top down spooky room a2.png::CompressedTexture2D::3421978692547378889::1723984454::1723985756::1::::<><>::
+Walk.png::CompressedTexture2D::5025657091333339314::1723985619::1723985756::1::::<><>::
+::res://Assests/Sounds/::1723992427
+Walking.mp3::AudioStreamMP3::3045856876243530988::1723992370::1723992438::1::::<><>::
+::res://Scenes/::1723992294
+game.tscn::PackedScene::425071130475438992::1723992294::0::1::::<><>::uid://bq6jmd23m8rjy::::res://Scenes/Player.tscn<>uid://d1g0l0kgs4mnq::::res://Assests/top down spooky room 2.png<>uid://bb2quv177iyqa::::res://Assests/top down spooky room 1.png<>uid://d1etmbd20gmxk::::res://Assests/top down assets .png<>uid://c082aonrit333::::res://Assests/top down spooky room a1.png<>uid://bo0vqvn631g86::::res://Assests/top down spooky room a2.png
+Player.tscn::PackedScene::3574005975308543766::1723992294::0::1::::<><>::uid://cyj7qbo425wo1::::res://Assests/Idle.png<>res://Scenes/Player.gd<>uid://cdup3q1go4267::::res://Assests/Walk.png<>uid://0qysb0g1pqk8::::res://Assests/Run.png
+Player.gd::GDScript::-1::1723989269::0::1::::<>CharacterBody2D<>::
